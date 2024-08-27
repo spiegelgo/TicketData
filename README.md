@@ -10,7 +10,7 @@
 [인터파크 티켓](https://tickets.interpark.com/contents/genre/concert, '인터파크 티켓')<br/>
 [티켓링크](https://www.ticketlink.co.kr/performance/14, '티켓링크')<br/>
 [Yes24](http://ticket.yes24.com/New/Genre/GenreMain.aspx?genre=15456, 'yes24 티켓')<br/>
-에서 크롤링하여 데이터를 가공하였습니다<br/><br/>
+에서 스크래핑하여 데이터를 가공하였습니다<br/><br/>
 
 **croll.py와 croll2.py는**<br/>
 인터파크 티켓에서의 데이터를 가져오는 파일이고<br/>
